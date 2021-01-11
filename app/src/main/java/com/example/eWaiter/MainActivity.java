@@ -1,4 +1,4 @@
-package com.example.aplikasipemesanansederhana;
+package com.example.eWaiter;
 
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
